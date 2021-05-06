@@ -13,10 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me 🚀
-🌱 Hi i'm Jamie, an aspiring Full stack developer about to graduate with a Diploma in Software Development, obtained through Code Institute. </br>
+### About Me 💬
 
-👨‍💻  I am passionate about Web Dev & Software Development and generally learning new skills and applying them! </br>
+Hi i'm Jamie, an aspiring Full stack developer about to graduate with a Diploma in Software Development, obtained through Code Institute. </br>
+
+💻  I am passionate about Web Dev & Software Development and generally learning new skills and applying them! </br>
+
+Towards the latter of 2020, I ended a long but rewarding stretch of my working career in hospitality and retail. I was sadly made redundant from my role, with prospects of employment in my field looking scarce and job security at its lowest. It was being in this situation which led me to wonder, was it now was the time to explore a career which allows me to express my creative self and is able to challenge my ways of thinking?
+
+After careful consideration and thought into what path I would pursue, I felt a bit lost. Until I was recommended to look into coding by a friend. Throughout college and university I trained in Sound Production and have continued to be deeply interested in the use of music production software. My passion to create and learn had always been subject to finding the time to get into my music studio.
+
+I quickly discovered how expressive coding could be. I took to learning immediately and began self teaching with a Web Development Bootcamp which I purchased from Udemy. Shortly after completing this course, I decided I would take a certified teaching path, learning through Code Institute.
+
+Six months on, I've now been fully immersed into the world of coding since September 2020 and expect to receive my Diploma in Sofware Development in the coming months. 🚀🚀🚀🚀
+
+I'm now seeking employment in the tech industry and couldn't be happier in myself to be looking for a job, knowing that it will be in a field which I am able to express and challenge myself.
 
 <hr>
 
@@ -39,7 +50,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-🚗%20Wild%20Mile%20Conversions-000)](https://github.com/jamie120/ms4-wild-mile)
 [![](https://img.shields.io/badge/-🍲%20Eat%20Vegan%20Recipes-000)](https://github.com/jamie120/ms3-eat-vegan-recipes)
-[![](https://img.shields.io/badge/-🎶%20COVID‑19%20Dashboard-000)](https://github.com/jamie120/MS2-Soma-Post-Production-Services)
+[![](https://img.shields.io/badge/-🎶%20SOMA%20Audio%20Services-000)](https://github.com/jamie120/MS2-Soma-Post-Production-Services)
 [![](https://img.shields.io/badge/-👷%20Dean's%20Plastering-000)](https://github.com/jamie120/ms1_d_r_plastering)
 
 <hr>
@@ -49,6 +60,8 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jamie120.jamie120)
 
 <hr>
+
+### Get In Touch 📫
 
 <a href="https://www.linkedin.com/in/jamie-rolls/">
   <img align="left" width="170px" src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn"  />
