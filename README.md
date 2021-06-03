@@ -21,7 +21,7 @@ Hi i'm Jamie, an aspiring Full stack developer about to graduate with a Diploma 
 
 Towards the latter of 2020, I ended a long but rewarding stretch of my working career in hospitality and retail. I was sadly made redundant from my role, with prospects of employment in my field looking scarce and job security at its lowest. It was being in this situation which led me to wonder, was it now was the time to explore a career which allows me to express my creative self and is able to challenge my ways of thinking?
 
-After careful consideration and thought into what path I would pursue, I felt a bit lost. Until I was recommended to look into coding by a friend. Throughout college and university I trained in Sound Production and have continued to be deeply interested in the use of music production software. My passion to create and learn had always been subject to finding the time to get into my music studio.
+After careful consideration and thought into what path I would pursue, I was recommended to look into coding by a friend. Throughout college and university I trained in Sound Production and have continued to be deeply interested in the use of music production software. My passion to create and learn had always been subject to finding the time to get into my music studio.
 
 I quickly discovered how expressive coding could be. I took to learning immediately and began self teaching with a Web Development Bootcamp which I purchased from Udemy. Shortly after completing this course, I decided I would take a certified teaching path, learning through Code Institute.
 
