@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### About Me 💬
 
-Hi i'm Jamie, an aspiring Full stack developer about to graduate with a Diploma in Software Development, obtained through Code Institute. </br>
+Hi i'm Jamie, an aspiring Full stack developer about to graduate with a Diploma in Software Development, obtained through Code Institute. I also hold  1st Class BA with honors Degree in Sound Production</br>
 
 💻  I am passionate about Web Dev & Software Development and generally learning new skills and applying them! </br>
 
